@@ -1,0 +1,20 @@
+{
+  "name": "Daily Accountability Dashboard",
+  "short_name": "Daily",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f7f6f3",
+  "theme_color": "#2f6f4f",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
